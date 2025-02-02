@@ -1,0 +1,5 @@
+rtsp_url: "rtsp://192.168.144.25:8554/main.264"
+
+qos_settings:
+  reliability: "best_effort"  # 또는 "reliable"
+  depth: 10
