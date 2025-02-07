@@ -1,8 +1,0 @@
-<launch>
-    <node
-        pkg="image_streaming_cpp"
-        exec="image_subscriber"
-        name="image_subscriber"
-        output="screen" />
-</launch>
-
